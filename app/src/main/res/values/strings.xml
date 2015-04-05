@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+
+    <string name="about_menu">About</string>
+    <string name="add_edit_hint">Add an item</string>
+    <string name="add_btn">Add</string>
+</resources>
