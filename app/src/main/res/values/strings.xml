@@ -1,7 +1,27 @@
 <resources>
-    <string name="app_name">Shopping List</string>
+    <string name="app_name">Shopping Lists</string>
+    <string name="app_version">2.0</string>
 
     <string name="about_menu">About</string>
+    <string name="add_menu">Add List</string>
+    <string name="delete_menu">Delete List</string>
+    <string name="rename_menu">Rename List</string>
+    <string name="help_menu">Help</string>
     <string name="add_edit_hint">Add an item</string>
     <string name="add_btn">Add</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
