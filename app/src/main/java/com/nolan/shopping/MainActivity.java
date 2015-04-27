@@ -227,8 +227,9 @@ public class MainActivity extends ActionBarActivity {
 
     public void edit(final String item) {
         AlertDialog.Builder editBuilder = new AlertDialog.Builder(this);
-        editBuilder.setTitle("Edit " + item + "?");
+        editBuilder.setTitle("Edit");
         final EditText txtEdit = new EditText(this);
+        txtEdit.setText(item);
         editBuilder.setView(txtEdit);
         editBuilder.setPositiveButton("Save", new DialogInterface.OnClickListener() {
             @Override
