@@ -1,4 +1,4 @@
-package com.nolan.shopping;
+package com.nolan.shoppinglist;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
